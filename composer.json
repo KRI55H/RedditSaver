@@ -1,0 +1,19 @@
+{
+  "name": "kri55h/reddit-saver",
+  "type": "library",
+  "description": "Reddit post saver",
+  "keywords": ["reddit","video","saver","reddit post saver"],
+  "homepage": "https://github.com/KRI55H/reddit-saver/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Krish Siddhapura",
+      "email": "siddhapurakrish007@gmail.com",
+      "homepage": "http://kri55h.github.io",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0"
+  }
+}
