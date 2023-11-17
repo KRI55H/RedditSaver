@@ -1,4 +1,4 @@
-![](assets/logo.svg?v1.0)
+![](assets/logo.svg?v1.1)
 
 ### Requirements
 
@@ -11,8 +11,8 @@
 
 ### How to use
 
-###### \* Note :- use download function with only get url.
+###### Note :- use download function with only get url.
 
 > $reddit = new RedditSaver();  
-> $reddit->setPostURL(reddit\_post\_url);  
+> $reddit->setPostURL(reddit_post_url);  
 > return $reddit->saveVIDEO();
