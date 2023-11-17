@@ -32,7 +32,7 @@ class RedditSaver
                 throw new Exception(curl_error($curl_handle));
             }else{
                 $this->postDATA = $data = json_decode($response,true);
-                if(isset($data[0]['data']['children'][0]['data']['secure_media']['reddit_video']['is_gif']) && !empty($data[0]['data']['children'][0]['data']['secure_media']['reddit_video']['is_gif'])){
+                if(isset($data[0]['data']['children'][0]['data']['secure_media']['reddit_video']['is_gif']) && $data[0]['data']['children'][0]['data']['secure_media']['reddit_video']['is_gif']){
                     throw new Exception("Video is actually a gif");
                 }else{
                     return $this->postURL;
