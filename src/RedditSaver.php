@@ -9,7 +9,7 @@ class RedditSaver
     private string $postURL;
     private array $postDATA;
     private string $videoURL;
-    public function validateVideoURl(string $url): string
+    public function setPostURL(string $url): string
     {
         $urlInfo = parse_url($url);
         if(isset($urlInfo) && !empty($urlInfo) && isset($urlInfo['host']) && !empty($urlInfo['host']) && str_contains($urlInfo['host'],'reddit.com') && isset($urlInfo['path']) && isset($urlInfo['scheme'])){
@@ -52,10 +52,9 @@ class RedditSaver
         }else{
             return false;
         }
-
     }
 
-    public function saveVideo(string $fileName): bool
+    public function saveVIDEO(string $fileName): bool
     {
         if(!isset($this->postURL)){
             throw new Exception('Failed to get video URL !');

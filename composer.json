@@ -1,9 +1,9 @@
 {
-  "name": "kri55h/php-reddit-saver",
+  "name": "kri55h/reddit-saver",
   "description": "Reddit post saver",
   "type": "library",
-  "keywords": ["reddit","video","saver","redditpostsaver","php","php8","laravel","laravel9","video-saver"],
-  "homepage": "https://github.com/KRI55H/php-reddit-saver",
+  "keywords": ["reddit","video","saver","redditpostsaver","php","php8","laravel","laravel9","video-saver","post-saver"],
+  "homepage": "https://github.com/KRI55H/reddit-saver",
   "license": "MIT",
   "authors": [
     {
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kri55h\\php-reddit-saver\\": "src"
+      "kri55h\\reddit-saver\\": "src"
     }
   }
 }
