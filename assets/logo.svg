@@ -8,10 +8,9 @@
  </defs>
  <style id="style2">.st0{fill:#ff4500}.st1{fill:#FF4B08}</style>
  <g class="layer">
-  <title>Layer 1</title>
   <g id="svg_8">
    <text fill="#FF4B08" font-family="Helvetica" font-size="24" font-weight="bold" id="svg_6" stroke-width="0" text-anchor="middle" transform="matrix(2.38671 0 0 2.64061 -170.436 -203.024)" x="200" xml:space="preserve" y="150">saver</text>
-   <text fill="#FF4B08" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_7" stroke-width="0" text-anchor="middle" transform="matrix(4.73915 0 0 4.80237 -531.8 -477.508)" x="193.5" xml:space="preserve" y="130">reddit</text>
+   <text fill="#FF4B08" font-family="system-ui" font-size="24" font-weight="bold" id="svg_7" stroke-width="0" text-anchor="middle" transform="matrix(4.73915 0 0 4.80237 -531.8 -477.508)" x="195" xml:space="preserve" y="130">reddit</text>
   </g>
   <g id="svg_9">
    <circle class="st0" cx="135" cy="135" fill="black" id="circle8" r="85"/>
