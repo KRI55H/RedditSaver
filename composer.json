@@ -1,24 +1,22 @@
 {
   "name": "kri55h/php-reddit-saver",
-  "type": "library",
   "description": "Reddit post saver",
+  "type": "library",
   "keywords": ["reddit","video","saver","redditpostsaver","php","php8","laravel","laravel9","video-saver"],
   "homepage": "https://github.com/KRI55H/php-reddit-saver",
   "license": "MIT",
   "authors": [
     {
       "name": "Krish Siddhapura",
-      "email": "siddhapurakrish007@gmail.com",
-      "homepage": "http://kri55h.github.io",
-      "role": "Developer"
+      "email": "siddhapurakrish007@gmail.com"
     }
   ],
   "require": {
-    "php": ">=8.0.0"
+    "php": ">=7.4"
   },
   "autoload": {
     "psr-4": {
-      "kri55h\\php-reddit-saver\\": "RedditSaver.php"
+      "kri55h\\php-reddit-saver\\": "src"
     }
   }
 }
