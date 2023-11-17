@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\RedditSaver;
+namespace Kri55h\RedditSaver;
 
 use Exception;
 
