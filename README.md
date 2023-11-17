@@ -1,4 +1,4 @@
-![](assets/logo.svg)
+![](assets/logo.svg?v1.0)
 
 ### Requirements
 
