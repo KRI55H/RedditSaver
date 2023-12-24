@@ -14,20 +14,6 @@ To install this package, follow these steps:
 composer require kri55h/redditsaver
 ```
 
-Once the package is installed, add the following configuration to your `composer.json` file within the `autoload` section:
-
-```json
-{
-  "autoload": {
-    "psr-4": {
-      "Kri55h\\RedditSaver\\": "vendor/kri55h/reddit-saver/src/"
-    }
-  }
-} 
-```
-
-Ensure to modify the namespace and path accordingly if needed.
-
 After updating the `composer.json` file, run the following command to let Composer autoload your package:
 ```bash
 composer dump-autoload

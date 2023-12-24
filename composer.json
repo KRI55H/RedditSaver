@@ -21,8 +21,5 @@
     "psr-4": {
       "kri55h\\redditsaver\\": "src"
     }
-  },
-  "suggest": {
-    "autoload": "Add PSR-4 autoload configuration for Kri55h\\RedditSaver\\ namespace."
   }
 }
