@@ -21,7 +21,7 @@ composer dump-autoload
 ## Usage
 Here's an example demonstrating how to use the `RedditSaver` class from this package:
 ```php
-use Kri55h\RedditSaver\RedditSaver;
+use kri55h\redditsaver\RedditSaver;
 
 try {
     $reddit = new RedditSaver();
