@@ -1,10 +1,10 @@
 <img src="assets/logo.svg?v1.3" alt="Reddit Saver" height="80">
 
-![Packagist Version](https://img.shields.io/packagist/v/kri55h/reddit-saver.svg)
-![Latest Version](https://img.shields.io/github/v/release/kri55h/reddit-saver)
-![Packagist Downloads](https://img.shields.io/packagist/dt/kri55h/reddit-saver)
+![Packagist Version](https://img.shields.io/packagist/v/kri55h/redditsaver.svg)
+![Latest Version](https://img.shields.io/github/v/release/kri55h/redditsaver)
+![Packagist Downloads](https://img.shields.io/packagist/dt/kri55h/redditsaver)
 ![PHP Version](https://img.shields.io/badge/PHP-^8.0-mediumslateblue)
-![License](https://img.shields.io/github/license/kri55h/reddit-saver)
+![License](https://img.shields.io/github/license/KRI55H/RedditSaver)
 
 
 ### Installation
