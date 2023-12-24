@@ -13,11 +13,6 @@ To install this package, follow these steps:
 ```bash
 composer require kri55h/redditsaver
 ```
-
-After updating the `composer.json` file, run the following command to let Composer autoload your package:
-```bash
-composer dump-autoload
-```
 ## Usage
 Here's an example demonstrating how to use the `RedditSaver` class from this package:
 ```php
