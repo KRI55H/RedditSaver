@@ -1,5 +1,5 @@
 {
-  "name": "kri55h/reddit-saver",
+  "name": "Kri55h/RedditSaver",
   "description": "Reddit post saver",
   "type": "library",
   "keywords": ["reddit","video","saver","redditpostsaver","php","php8","laravel","laravel9","video-saver","post-saver"],
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Kri55h\\RedditSaver\\": "src"
+      "kri55h\\reddit-saver\\": "src"
     }
   },
   "suggest": {
