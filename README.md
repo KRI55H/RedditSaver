@@ -11,7 +11,7 @@
 
 To install this package, follow these steps:
 ```bash
-composer require kri55h/reddit-saver
+composer require kri55h/redditsaver
 ```
 
 Once the package is installed, add the following configuration to your `composer.json` file within the `autoload` section:

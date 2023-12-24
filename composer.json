@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kri55h\\reddit-saver\\": "src"
+      "kri55h\\redditsaver\\": "src"
     }
   },
   "suggest": {

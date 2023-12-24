@@ -1,6 +1,6 @@
 <?php
 
-namespace Kri55h\RedditSaver;
+namespace kri55h\redditsaver;
 
 use Exception;
 
